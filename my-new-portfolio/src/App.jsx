@@ -55,7 +55,7 @@ const personalInfo = {
     email: "vivekshankar7033@gmail.com",
     linkedin: "https://www.linkedin.com/in/vivek-shankar-a43a60291",
     github: "https://github.com/Viper7033",
-    resume: "/Vivek_Shankar_resume.pdf"
+    resume: "https://drive.google.com/file/d/15s_e6PR-wyIwnniD3Edn6QwjPTHMzW-J/view?usp=sharing"
 };
 
 const projects = [
