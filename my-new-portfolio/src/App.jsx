@@ -63,7 +63,7 @@ const projects = [
       title: 'Spotify Clone',
       description: 'A responsive, front-end clone of the Spotify web player, focusing on recreating the user interface with pure HTML and CSS to practice layout and design principles.',
       tags: ['HTML5', 'CSS3', 'UI/UX', 'Responsive Design'],
-      liveUrl: '#',
+      liveUrl: 'https://spotify-clone-1emh7yzww-vivek-shankars-projects.vercel.app',
       githubUrl: 'https://github.com/Viper7033',
       imageUrl: 'https://placehold.co/600x400/1DB954/ffffff?text=Spotify+Clone'
     },
